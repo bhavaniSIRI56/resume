@@ -6,5 +6,54 @@
     "phone":"9642674881"
 
 
+  },
+
+  "education":[
+    {
+      "course":"B.Tech(computer science and engineering)",
+      "college":[
+        "Ravindra college of engineering for women",
+        "2015-2019",
+        "80.3%"
+
+    ]
+},
+
+
+
+  {
+    "course":"intermediate(MPC)",
+    "college":[
+      "Narayana Junior college",
+      "2013-2015",
+      "87.6%"
+    ]
+  },
+
+  {
+  "course":"ssc",
+  "college":[
+    "Shri Adithya Vidhya Nilayam",
+    "2013",
+    "93%"
+  ]
   }
+],
+
+
+"skills":[
+  {
+    "name":"operating systems:",
+    "value":"windows,linux"
+  },
+
+  {
+    "name":"progarming languages:",
+    "value":"c,c++,java"
+  },
+  {
+    "name":"web develpment:",
+    "value":"HTML,php,.net"
+  }
+]
 }
